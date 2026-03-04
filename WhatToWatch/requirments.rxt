@@ -1,0 +1,4 @@
+scikit-surprise 
+pandas 
+numpy ( <2)
+pickle
