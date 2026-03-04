@@ -60,6 +60,9 @@ The system evaluates performance using Root Mean Squared Error (RMSE) on a 80/20
 │   └── u.item
 ├── requirements.txt
 └── README.md
+## 📸 Application Preview
+wtw1.bmp, wtw2.bmp,wtw3.bmp,wtw4.bmp
+
 ## 🖥️ Run the App
 
 ```bash
