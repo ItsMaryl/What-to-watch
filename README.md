@@ -50,13 +50,6 @@ Hybrid Score Formula:Hybrid Score = 0.5 * Content Score + 0.5 * SVD Score
 The system evaluates performance using Root Mean Squared Error (RMSE) on a 80/20 train-test split.
 
 ---
-
-## 🖥️ Run the App
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
----
 📂 Project Structure
 .
 ├── app.py
@@ -67,3 +60,10 @@ streamlit run app.py
 │   └── u.item
 ├── requirements.txt
 └── README.md
+## 🖥️ Run the App
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+
